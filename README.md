@@ -66,10 +66,10 @@ The following objects appear in the top level directory of this project.
 **[./quartus](./quartus)**
 * Contains an example design for a full-featured six-rail sequencer.
 
-**[./source](./source)**
+**[./src](./src)**
 * Contains all of the design files for the Multi-Rail Power Sequencer and Monitor design.
 
-**[./source/sequencer_qsys_tb](./source/sequencer_qsys_tb)**
+**[./src/sequencer_qsys_tb](./src/sequencer_qsys_tb)**
 * Contains simulation support files for the testbench that enables one to simulate the example design using the Siemens® ModelSim® / QuestaSim® simulation tool.
 
 <br>
